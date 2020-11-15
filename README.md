@@ -24,7 +24,7 @@ page.
 1) Stepper highlights Page 1, 2 and 3
 2) Success is displayed and clicking “Home” button takes the user to Home page
 
-#---
+---
 Stack
 Use Typescript, React, Redux, StyledComponents to build this.
 Grading criteria
